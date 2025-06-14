@@ -154,7 +154,7 @@ fun operacionesBasicas(){
                         else -> "Operación no válida"
                     }
                 } else {
-                    "Ingrese números válidos"
+                    "Ingrese solo números válidos"
                 }
             }) {
                 Text("Calcular")
